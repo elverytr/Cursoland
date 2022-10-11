@@ -1,0 +1,48 @@
+.border-dashed {
+  border-style: dashed !important;
+}
+
+.bg-body {
+  background-color: rgb(239, 239, 239) !important;
+}
+
+.h-35 {
+  height: 200px !important;
+}
+
+.h-65 {
+  min-height: 65% !important;
+}
+
+.w-30 {
+  min-width: 400px;
+  max-width: 30% !important;
+}
+
+.transparent-20 {
+  opacity: 80% !important;
+}
+
+.modal-parent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(142, 142, 142, 0.8) !important;
+  z-index: 1000 !important;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+.form-parent{
+  height: 65vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.w-40{
+  width: 40%;
+}
