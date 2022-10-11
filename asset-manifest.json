@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Cursoland/static/css/main.d4de3874.css",
+    "main.js": "/Cursoland/static/js/main.34276e11.js",
+    "static/media/Cursoland.gif": "/Cursoland/static/media/Cursoland.d504d428895fbd3909d5.gif",
+    "static/media/ads.png": "/Cursoland/static/media/ads.505bec904bfbbf4abcfc.png",
+    "static/media/design.png": "/Cursoland/static/media/design.f8aec7636e372c62edd3.png",
+    "static/media/hacking.png": "/Cursoland/static/media/hacking.4118a584275179488246.png",
+    "static/media/code.png": "/Cursoland/static/media/code.7d5817896c905dd9ccf8.png",
+    "static/media/foto.png": "/Cursoland/static/media/foto.c6e5ee57638a7fb3c2e2.png",
+    "index.html": "/Cursoland/index.html",
+    "main.d4de3874.css.map": "/Cursoland/static/css/main.d4de3874.css.map",
+    "main.34276e11.js.map": "/Cursoland/static/js/main.34276e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4de3874.css",
+    "static/js/main.34276e11.js"
+  ]
+}
