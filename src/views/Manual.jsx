@@ -1,11 +1,12 @@
 import React from "react";
 import "../assets/styles/manual.css";
+import logo from '../assets/img/manual/Screenshot_1.png'
 
 export const Manual = () => {
   return (
     <>
         <div className="front-page">
-          <img className="logo" src='https://i.ibb.co/4T7BRbv/Cursoland.gif' />
+          <img className="logo" src={logo} />
         </div>
         <h1 className="title" >
           Manual de usuario de Cursoland
